@@ -32,7 +32,7 @@ public class RedBusSearchAutomationAssignment {
 		driver.get("https://www.redbus.in/");
 		
 		//this can also be used to maximize the window
-//		driver.manage().window().maximize(); 		
+		//driver.manage().window().maximize(); 		
 		
 		//From Button on HomeScreen
 		By fromButtonLocator = By.xpath("//div[contains(@class,\'srcDestWrapper\') and @role=\'button\']");
