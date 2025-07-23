@@ -51,6 +51,3 @@ Finally, print the total number of buses available after filtering.
 - Select the filters as Primo and Evening
 - Perform the scrolling of the list
 - Capture the buses' names and print them on the console
-
-## Submission Guidelines: <br/>
-Submit the GitHub repo link
